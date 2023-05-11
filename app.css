@@ -29,5 +29,5 @@
 }			
 
 /* ads */
-.ads-square{width:300px;height:250px;background:#428bca;color:#fff;line-height:250px;text-align:center;margin:auto}
+.ads-square{width:100%;color:#fff;line-height:250px;text-align:center;margin:auto}
 .ads-horizontal{width:100%;color:#fff;line-height:90px;text-align:center}
